@@ -15,7 +15,7 @@ public class Program
         var orderWorkflow = new OrderWorkflow(repository);
         var invoiceWorkflow = new InvoiceWorkflow(repository);
 
-        // Creare comandă
+        
         var orderId = await orderWorkflow.CreateOrderAsync("Ion Popescu", new List<OrderItem>
         {
             new OrderItem("Laptop", 1),
@@ -23,11 +23,10 @@ public class Program
         });
         Console.WriteLine($"Comandă creată cu ID: {orderId}");
 
-        // Confirmare comandă
+        
         await orderWorkflow.ConfirmOrderAsync(orderId);
         Console.WriteLine("Comanda a fost confirmată.");
-
-        // Generare factură (workflow secundar)
+        
         await invoiceWorkflow.GenerateInvoiceAsync(orderId);
     }
 }

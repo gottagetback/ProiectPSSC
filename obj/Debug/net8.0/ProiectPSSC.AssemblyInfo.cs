@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProiectPSSC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8a9d27c70b780e5565129e6377f1c98fb33aca1")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProiectPSSC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProiectPSSC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

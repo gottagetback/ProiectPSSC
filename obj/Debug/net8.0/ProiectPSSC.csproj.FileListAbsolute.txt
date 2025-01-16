@@ -1,0 +1,15 @@
+D:\Denis\Downloads\ProiectPSSC\bin\Debug\net8.0\ProiectPSSC.exe
+D:\Denis\Downloads\ProiectPSSC\bin\Debug\net8.0\ProiectPSSC.deps.json
+D:\Denis\Downloads\ProiectPSSC\bin\Debug\net8.0\ProiectPSSC.runtimeconfig.json
+D:\Denis\Downloads\ProiectPSSC\bin\Debug\net8.0\ProiectPSSC.dll
+D:\Denis\Downloads\ProiectPSSC\bin\Debug\net8.0\ProiectPSSC.pdb
+D:\Denis\Downloads\ProiectPSSC\obj\Debug\net8.0\ProiectPSSC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Denis\Downloads\ProiectPSSC\obj\Debug\net8.0\ProiectPSSC.AssemblyInfoInputs.cache
+D:\Denis\Downloads\ProiectPSSC\obj\Debug\net8.0\ProiectPSSC.AssemblyInfo.cs
+D:\Denis\Downloads\ProiectPSSC\obj\Debug\net8.0\ProiectPSSC.csproj.CoreCompileInputs.cache
+D:\Denis\Downloads\ProiectPSSC\obj\Debug\net8.0\ProiectPSSC.sourcelink.json
+D:\Denis\Downloads\ProiectPSSC\obj\Debug\net8.0\ProiectPSSC.dll
+D:\Denis\Downloads\ProiectPSSC\obj\Debug\net8.0\refint\ProiectPSSC.dll
+D:\Denis\Downloads\ProiectPSSC\obj\Debug\net8.0\ProiectPSSC.pdb
+D:\Denis\Downloads\ProiectPSSC\obj\Debug\net8.0\ProiectPSSC.genruntimeconfig.cache
+D:\Denis\Downloads\ProiectPSSC\obj\Debug\net8.0\ref\ProiectPSSC.dll
